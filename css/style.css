@@ -383,9 +383,9 @@ h1,h2,h3,h4,h5,h6,.nav-link {
     bottom: 95%;
     transition: var(--transition);
 }
-.to-top:hover{
-        background: rgb(242, 84, 84);
-            color: rgba(255, 255, 255);
+.footer .to-top:hover{
+    background: rgb(242, 84, 84);
+    color: white;
 }
 .footer h5{
     font-weight: var(--fw-600);
