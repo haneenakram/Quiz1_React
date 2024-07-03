@@ -11,7 +11,7 @@ This project involves building a responsive website using HTML, CSS, and Bootstr
 
 ## How to Run the Project
 1. **Clone the Repository**:
-   - Clone your GitHub repository: `git clone <repository_url>`
+   - Clone your GitHub repository: `git clone https://github.com/haneenakram/React-DEPI-Quiz1.git`
 2. **Local Development**:
    - Open the project folder in your preferred code editor (e.g., Visual Studio Code).
    - Launch a live server to view the website locally.
